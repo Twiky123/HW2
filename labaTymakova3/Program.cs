@@ -44,7 +44,7 @@ namespace dz3
 
             Console.WriteLine($"Ваш номер банковского счета - {user.Account_id}\n");
             Console.WriteLine($" Ваш вид банковского счета - {user.Account_type}\n");
-             Console.WriteLine($"Ваш баланс банковского счета - {user.Account_balance}\n");
+            Console.WriteLine($"Ваш баланс банковского счета - {user.Account_balance}\n");
 
             Console.WriteLine("Домашнее задание 3.1");
             User user1 = new User();
